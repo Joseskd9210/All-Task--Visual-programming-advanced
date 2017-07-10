@@ -1,0 +1,12 @@
+c:\users\ucam\documents\visual studio 2013\Projects\practica 12\practica 12\bin\Debug\practica 12.exe.config
+c:\users\ucam\documents\visual studio 2013\Projects\practica 12\practica 12\bin\Debug\practica 12.exe
+c:\users\ucam\documents\visual studio 2013\Projects\practica 12\practica 12\bin\Debug\practica 12.pdb
+c:\users\ucam\documents\visual studio 2013\Projects\practica 12\practica 12\obj\Debug\practica 12.csprojResolveAssemblyReference.cache
+c:\users\ucam\documents\visual studio 2013\Projects\practica 12\practica 12\obj\Debug\practica_12.Form1.resources
+c:\users\ucam\documents\visual studio 2013\Projects\practica 12\practica 12\obj\Debug\practica_12.Properties.Resources.resources
+c:\users\ucam\documents\visual studio 2013\Projects\practica 12\practica 12\obj\Debug\practica 12.csproj.GenerateResource.Cache
+c:\users\ucam\documents\visual studio 2013\Projects\practica 12\practica 12\obj\Debug\practica 12.exe
+c:\users\ucam\documents\visual studio 2013\Projects\practica 12\practica 12\obj\Debug\practica 12.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 12\practica 12\bin\Debug\practica 12.exe.config
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 12\practica 12\obj\Debug\practica 12.exe
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 12\practica 12\obj\Debug\practica 12.pdb

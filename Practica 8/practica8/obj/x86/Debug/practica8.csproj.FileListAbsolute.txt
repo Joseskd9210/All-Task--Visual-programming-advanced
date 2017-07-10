@@ -1,0 +1,17 @@
+c:\users\emilio\documents\visual studio 2010\Projects\practica8\practica8\bin\Debug\practica8.exe
+c:\users\emilio\documents\visual studio 2010\Projects\practica8\practica8\bin\Debug\practica8.pdb
+c:\users\emilio\documents\visual studio 2010\Projects\practica8\practica8\obj\x86\Debug\practica8.csproj.ResolveComReference.cache
+c:\users\emilio\documents\visual studio 2010\Projects\practica8\practica8\obj\x86\Debug\practica8.Form1.resources
+c:\users\emilio\documents\visual studio 2010\Projects\practica8\practica8\obj\x86\Debug\practica8.Properties.Resources.resources
+c:\users\emilio\documents\visual studio 2010\Projects\practica8\practica8\obj\x86\Debug\practica8.csproj.GenerateResource.Cache
+c:\users\emilio\documents\visual studio 2010\Projects\practica8\practica8\obj\x86\Debug\practica8.exe
+c:\users\emilio\documents\visual studio 2010\Projects\practica8\practica8\obj\x86\Debug\practica8.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 8\practica8\obj\x86\Debug\practica8.csproj.ResolveComReference.cache
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 8\practica8\obj\x86\Debug\practica8.exe
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 8\practica8\obj\x86\Debug\practica8.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 8\practica8\bin\Debug\practica8.exe
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 8\practica8\bin\Debug\practica8.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 8\practica8\obj\x86\Debug\practica8.csprojResolveAssemblyReference.cache
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 8\practica8\obj\x86\Debug\practica8.Form1.resources
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 8\practica8\obj\x86\Debug\practica8.Properties.Resources.resources
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 8\practica8\obj\x86\Debug\practica8.csproj.GenerateResource.Cache

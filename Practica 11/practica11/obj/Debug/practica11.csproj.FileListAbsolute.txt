@@ -1,0 +1,17 @@
+c:\users\ucam\documents\visual studio 2013\Projects\practica11\practica11\bin\Debug\practica11.exe.config
+c:\users\ucam\documents\visual studio 2013\Projects\practica11\practica11\bin\Debug\practica11.exe
+c:\users\ucam\documents\visual studio 2013\Projects\practica11\practica11\bin\Debug\practica11.pdb
+c:\users\ucam\documents\visual studio 2013\Projects\practica11\practica11\obj\Debug\practica11.csprojResolveAssemblyReference.cache
+c:\users\ucam\documents\visual studio 2013\Projects\practica11\practica11\obj\Debug\practica11.Form1.resources
+c:\users\ucam\documents\visual studio 2013\Projects\practica11\practica11\obj\Debug\practica11.Properties.Resources.resources
+c:\users\ucam\documents\visual studio 2013\Projects\practica11\practica11\obj\Debug\practica11.csproj.GenerateResource.Cache
+c:\users\ucam\documents\visual studio 2013\Projects\practica11\practica11\obj\Debug\RdlCompile.cache
+c:\users\ucam\documents\visual studio 2013\Projects\practica11\practica11\obj\Debug\RdlCompile.compiled
+c:\users\ucam\documents\visual studio 2013\Projects\practica11\practica11\obj\Debug\practica11.exe
+c:\users\ucam\documents\visual studio 2013\Projects\practica11\practica11\obj\Debug\practica11.pdb
+C:\Users\Emilio\Desktop\Carrera Ucam\Programacion visual avanzada\PRACTICAS\practica11\practica11\bin\Debug\practica11.exe.config
+C:\Users\Emilio\Desktop\Carrera Ucam\Programacion visual avanzada\PRACTICAS\practica11\practica11\obj\Debug\practica11.exe
+C:\Users\Emilio\Desktop\Carrera Ucam\Programacion visual avanzada\PRACTICAS\practica11\practica11\obj\Debug\practica11.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 11\practica11\bin\Debug\practica11.exe.config
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 11\practica11\obj\Debug\practica11.exe
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 11\practica11\obj\Debug\practica11.pdb

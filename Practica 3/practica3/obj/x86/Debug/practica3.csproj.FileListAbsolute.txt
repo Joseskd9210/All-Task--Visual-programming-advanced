@@ -1,0 +1,35 @@
+c:\users\48421799\documents\visual studio 2010\Projects\practica3\practica3\bin\Debug\practica3.exe
+c:\users\48421799\documents\visual studio 2010\Projects\practica3\practica3\bin\Debug\practica3.pdb
+c:\users\48421799\documents\visual studio 2010\Projects\practica3\practica3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\48421799\documents\visual studio 2010\Projects\practica3\practica3\obj\x86\Debug\practica3.Form1.resources
+c:\users\48421799\documents\visual studio 2010\Projects\practica3\practica3\obj\x86\Debug\practica3.Properties.Resources.resources
+c:\users\48421799\documents\visual studio 2010\Projects\practica3\practica3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\48421799\documents\visual studio 2010\Projects\practica3\practica3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\48421799\documents\visual studio 2010\Projects\practica3\practica3\obj\x86\Debug\practica3.exe
+c:\users\48421799\documents\visual studio 2010\Projects\practica3\practica3\obj\x86\Debug\practica3.pdb
+C:\Users\48421799\Desktop\practica3\obj\x86\Debug\practica3.exe
+C:\Users\48421799\Desktop\practica3\obj\x86\Debug\practica3.pdb
+C:\Users\48421799\Desktop\practica3\bin\Debug\practica3.exe
+C:\Users\48421799\Desktop\practica3\bin\Debug\practica3.pdb
+C:\Users\48421799\Desktop\practica3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\48421799\Desktop\practica3\obj\x86\Debug\practica3.Form1.resources
+C:\Users\48421799\Desktop\practica3\obj\x86\Debug\practica3.Properties.Resources.resources
+C:\Users\48421799\Desktop\practica3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\48421799\Desktop\practica3\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\programacion visual avanzada\practica3\practica3\obj\x86\Debug\practica3.exe
+D:\programacion visual avanzada\practica3\practica3\obj\x86\Debug\practica3.pdb
+D:\programacion visual avanzada\practica3\practica3\bin\Debug\practica3.exe
+D:\programacion visual avanzada\practica3\practica3\bin\Debug\practica3.pdb
+D:\programacion visual avanzada\practica3\practica3\obj\x86\Debug\practica3.Form1.resources
+D:\programacion visual avanzada\practica3\practica3\obj\x86\Debug\practica3.Properties.Resources.resources
+D:\programacion visual avanzada\practica3\practica3\obj\x86\Debug\practica3.csproj.GenerateResource.Cache
+C:\Users\Emilio\Desktop\Carrera Ucam\Programacion visual avanzada\PRACTICAS\practica3\practica3\obj\x86\Debug\practica3.exe
+C:\Users\Emilio\Desktop\Carrera Ucam\Programacion visual avanzada\PRACTICAS\practica3\practica3\obj\x86\Debug\practica3.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\practica3\practica3\obj\x86\Debug\practica3.exe
+C:\Users\JoseFdez\Desktop\PRACTICAS1\practica3\practica3\obj\x86\Debug\practica3.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\practica3\practica3\bin\Debug\practica3.exe
+C:\Users\JoseFdez\Desktop\PRACTICAS1\practica3\practica3\bin\Debug\practica3.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\practica3\practica3\obj\x86\Debug\practica3.csprojResolveAssemblyReference.cache
+C:\Users\JoseFdez\Desktop\PRACTICAS1\practica3\practica3\obj\x86\Debug\practica3.Form1.resources
+C:\Users\JoseFdez\Desktop\PRACTICAS1\practica3\practica3\obj\x86\Debug\practica3.Properties.Resources.resources
+C:\Users\JoseFdez\Desktop\PRACTICAS1\practica3\practica3\obj\x86\Debug\practica3.csproj.GenerateResource.Cache

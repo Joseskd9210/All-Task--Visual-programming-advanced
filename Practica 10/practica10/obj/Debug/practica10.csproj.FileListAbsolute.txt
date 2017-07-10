@@ -1,0 +1,23 @@
+c:\users\ucam\documents\visual studio 2013\Projects\practica10\practica10\bin\Debug\practica10.exe.config
+c:\users\ucam\documents\visual studio 2013\Projects\practica10\practica10\obj\Debug\practica10.csprojResolveAssemblyReference.cache
+c:\users\ucam\documents\visual studio 2013\Projects\practica10\practica10\obj\Debug\practica10.Form1.resources
+c:\users\ucam\documents\visual studio 2013\Projects\practica10\practica10\obj\Debug\practica10.Form2.resources
+c:\users\ucam\documents\visual studio 2013\Projects\practica10\practica10\obj\Debug\practica10.Properties.Resources.resources
+c:\users\ucam\documents\visual studio 2013\Projects\practica10\practica10\obj\Debug\practica10.csproj.GenerateResource.Cache
+c:\users\ucam\documents\visual studio 2013\Projects\practica10\practica10\bin\Debug\practica10.exe
+c:\users\ucam\documents\visual studio 2013\Projects\practica10\practica10\bin\Debug\practica10.pdb
+c:\users\ucam\documents\visual studio 2013\Projects\practica10\practica10\obj\Debug\practica10.exe
+c:\users\ucam\documents\visual studio 2013\Projects\practica10\practica10\obj\Debug\practica10.pdb
+C:\Users\Emilio\Desktop\Carrera Ucam\Programacion visual avanzada\PRACTICAS\practica10\practica10\bin\Debug\practica10.exe.config
+C:\Users\Emilio\Desktop\Carrera Ucam\Programacion visual avanzada\PRACTICAS\practica10\practica10\obj\Debug\practica10.exe
+C:\Users\Emilio\Desktop\Carrera Ucam\Programacion visual avanzada\PRACTICAS\practica10\practica10\obj\Debug\practica10.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 10\practica10\bin\Debug\practica10.exe.config
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 10\practica10\obj\Debug\practica10.exe
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 10\practica10\obj\Debug\practica10.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 10\practica10\bin\Debug\practica10.exe
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 10\practica10\bin\Debug\practica10.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 10\practica10\obj\Debug\practica10.csprojResolveAssemblyReference.cache
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 10\practica10\obj\Debug\practica10.Form1.resources
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 10\practica10\obj\Debug\practica10.Form2.resources
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 10\practica10\obj\Debug\practica10.Properties.Resources.resources
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 10\practica10\obj\Debug\practica10.csproj.GenerateResource.Cache

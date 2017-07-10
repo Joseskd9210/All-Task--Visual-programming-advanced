@@ -1,0 +1,24 @@
+c:\users\74742008\documents\visual studio 2010\Projects\PracticaXML\PracticaXML\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\74742008\documents\visual studio 2010\Projects\PracticaXML\PracticaXML\obj\x86\Debug\PracticaXML.Form1.resources
+c:\users\74742008\documents\visual studio 2010\Projects\PracticaXML\PracticaXML\obj\x86\Debug\PracticaXML.Properties.Resources.resources
+c:\users\74742008\documents\visual studio 2010\Projects\PracticaXML\PracticaXML\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\74742008\documents\visual studio 2010\Projects\PracticaXML\PracticaXML\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\74742008\documents\visual studio 2010\Projects\PracticaXML\PracticaXML\bin\Debug\PracticaXML.exe
+c:\users\74742008\documents\visual studio 2010\Projects\PracticaXML\PracticaXML\bin\Debug\PracticaXML.pdb
+c:\users\74742008\documents\visual studio 2010\Projects\PracticaXML\PracticaXML\obj\x86\Debug\PracticaXML.exe
+c:\users\74742008\documents\visual studio 2010\Projects\PracticaXML\PracticaXML\obj\x86\Debug\PracticaXML.pdb
+F:\PVA\PracticaXML\PracticaXML\obj\x86\Debug\PracticaXML.exe
+F:\PVA\PracticaXML\PracticaXML\obj\x86\Debug\PracticaXML.pdb
+F:\PVA\PracticaXML\PracticaXML\bin\Debug\PracticaXML.exe
+F:\PVA\PracticaXML\PracticaXML\bin\Debug\PracticaXML.pdb
+F:\PVA\PracticaXML\PracticaXML\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PVA\PracticaXML\PracticaXML\obj\x86\Debug\PracticaXML.Form1.resources
+F:\PVA\PracticaXML\PracticaXML\obj\x86\Debug\PracticaXML.Properties.Resources.resources
+F:\PVA\PracticaXML\PracticaXML\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PVA\PracticaXML\PracticaXML\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PVA\PracticaXML\PracticaXML\obj\x86\Debug\PracticaXML.exe
+G:\PVA\PracticaXML\PracticaXML\obj\x86\Debug\PracticaXML.pdb
+G:\PVA\PracticaXML\PracticaXML\obj\x86\Debug\PracticaXML.csprojResolveAssemblyReference.cache
+G:\PVA\PracticaXML\PracticaXML\obj\x86\Debug\PracticaXML.Form1.resources
+G:\PVA\PracticaXML\PracticaXML\obj\x86\Debug\PracticaXML.Properties.Resources.resources
+G:\PVA\PracticaXML\PracticaXML\obj\x86\Debug\PracticaXML.csproj.GenerateResource.Cache

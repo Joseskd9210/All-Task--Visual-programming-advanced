@@ -1,0 +1,28 @@
+c:\users\48421799\documents\visual studio 2010\Projects\Practica4\Practica4\bin\Debug\Practica4.exe
+c:\users\48421799\documents\visual studio 2010\Projects\Practica4\Practica4\bin\Debug\Practica4.pdb
+c:\users\48421799\documents\visual studio 2010\Projects\Practica4\Practica4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\48421799\documents\visual studio 2010\Projects\Practica4\Practica4\obj\x86\Debug\Practica4.Form1.resources
+c:\users\48421799\documents\visual studio 2010\Projects\Practica4\Practica4\obj\x86\Debug\Practica4.Properties.Resources.resources
+c:\users\48421799\documents\visual studio 2010\Projects\Practica4\Practica4\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\48421799\documents\visual studio 2010\Projects\Practica4\Practica4\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\48421799\documents\visual studio 2010\Projects\Practica4\Practica4\obj\x86\Debug\Practica4.exe
+c:\users\48421799\documents\visual studio 2010\Projects\Practica4\Practica4\obj\x86\Debug\Practica4.pdb
+C:\Users\74742008\Desktop\Practica4\Practica4\obj\x86\Debug\Practica4.exe
+C:\Users\74742008\Desktop\Practica4\Practica4\obj\x86\Debug\Practica4.pdb
+C:\Users\74742008\Desktop\Practica4\Practica4\bin\Debug\Practica4.exe
+C:\Users\74742008\Desktop\Practica4\Practica4\bin\Debug\Practica4.pdb
+C:\Users\74742008\Desktop\Practica4\Practica4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\74742008\Desktop\Practica4\Practica4\obj\x86\Debug\Practica4.Form1.resources
+C:\Users\74742008\Desktop\Practica4\Practica4\obj\x86\Debug\Practica4.Properties.Resources.resources
+C:\Users\74742008\Desktop\Practica4\Practica4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\74742008\Desktop\Practica4\Practica4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\74742008\Desktop\Practica4\Practica4\obj\x86\Debug\Practica4.fHijo.resources
+C:\Users\Charlie\Desktop\Practica4\Practica4\obj\x86\Debug\Practica4.exe
+C:\Users\Charlie\Desktop\Practica4\Practica4\obj\x86\Debug\Practica4.pdb
+C:\Users\Charlie\Desktop\Practica4\Practica4\bin\Debug\Practica4.exe
+C:\Users\Charlie\Desktop\Practica4\Practica4\bin\Debug\Practica4.pdb
+C:\Users\Charlie\Desktop\Practica4\Practica4\obj\x86\Debug\Practica4.fHijo.resources
+C:\Users\Charlie\Desktop\Practica4\Practica4\obj\x86\Debug\Practica4.Form1.resources
+C:\Users\Charlie\Desktop\Practica4\Practica4\obj\x86\Debug\Practica4.Properties.Resources.resources
+C:\Users\Charlie\Desktop\Practica4\Practica4\obj\x86\Debug\Practica4.csproj.GenerateResource.Cache
+C:\Users\Charlie\Desktop\Practica4\Practica4\obj\x86\Debug\Practica4.frmHijo.resources

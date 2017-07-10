@@ -1,0 +1,41 @@
+F:\PVA\agenda\agenda\bin\Debug\agenda.exe
+F:\PVA\agenda\agenda\bin\Debug\agenda.pdb
+F:\PVA\agenda\agenda\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PVA\agenda\agenda\obj\x86\Debug\agenda.Form1.resources
+F:\PVA\agenda\agenda\obj\x86\Debug\agenda.Properties.Resources.resources
+F:\PVA\agenda\agenda\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PVA\agenda\agenda\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PVA\agenda\agenda\obj\x86\Debug\agenda.exe
+F:\PVA\agenda\agenda\obj\x86\Debug\agenda.pdb
+C:\Users\48421799\Desktop\agenda Practica 1\agenda\obj\x86\Debug\agenda.exe
+C:\Users\48421799\Desktop\agenda Practica 1\agenda\obj\x86\Debug\agenda.pdb
+C:\Users\48421799\Desktop\agenda Practica 1\agenda\bin\Debug\agenda.exe
+C:\Users\48421799\Desktop\agenda Practica 1\agenda\bin\Debug\agenda.pdb
+C:\Users\48421799\Desktop\agenda Practica 1\agenda\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\48421799\Desktop\agenda Practica 1\agenda\obj\x86\Debug\agenda.Form1.resources
+C:\Users\48421799\Desktop\agenda Practica 1\agenda\obj\x86\Debug\agenda.frmsobre.resources
+C:\Users\48421799\Desktop\agenda Practica 1\agenda\obj\x86\Debug\agenda.Properties.Resources.resources
+C:\Users\48421799\Desktop\agenda Practica 1\agenda\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\48421799\Desktop\agenda Practica 1\agenda\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\48421799\Desktop\agenda Practica 1\agenda\obj\x86\Debug\agenda.frmlicencia.resources
+D:\programacion visual avanzada\agenda Practica 2\agenda\obj\x86\Debug\agenda.exe
+D:\programacion visual avanzada\agenda Practica 2\agenda\obj\x86\Debug\agenda.pdb
+D:\programacion visual avanzada\agenda Practica 2\agenda\bin\Debug\agenda.exe
+D:\programacion visual avanzada\agenda Practica 2\agenda\bin\Debug\agenda.pdb
+D:\programacion visual avanzada\agenda Practica 2\agenda\obj\x86\Debug\agenda.Form1.resources
+D:\programacion visual avanzada\agenda Practica 2\agenda\obj\x86\Debug\agenda.frmlicencia.resources
+D:\programacion visual avanzada\agenda Practica 2\agenda\obj\x86\Debug\agenda.frmsobre.resources
+D:\programacion visual avanzada\agenda Practica 2\agenda\obj\x86\Debug\agenda.Properties.Resources.resources
+D:\programacion visual avanzada\agenda Practica 2\agenda\obj\x86\Debug\agenda.csproj.GenerateResource.Cache
+C:\Users\Emilio\Desktop\Carrera Ucam\Programacion visual avanzada\PRACTICAS\agenda Practica 2\agenda\obj\x86\Debug\agenda.exe
+C:\Users\Emilio\Desktop\Carrera Ucam\Programacion visual avanzada\PRACTICAS\agenda Practica 2\agenda\obj\x86\Debug\agenda.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\agenda Practica 2\agenda\obj\x86\Debug\agenda.exe
+C:\Users\JoseFdez\Desktop\PRACTICAS1\agenda Practica 2\agenda\obj\x86\Debug\agenda.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\agenda Practica 2\agenda\bin\Debug\agenda.exe
+C:\Users\JoseFdez\Desktop\PRACTICAS1\agenda Practica 2\agenda\bin\Debug\agenda.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\agenda Practica 2\agenda\obj\x86\Debug\agenda.csprojResolveAssemblyReference.cache
+C:\Users\JoseFdez\Desktop\PRACTICAS1\agenda Practica 2\agenda\obj\x86\Debug\agenda.Form1.resources
+C:\Users\JoseFdez\Desktop\PRACTICAS1\agenda Practica 2\agenda\obj\x86\Debug\agenda.frmlicencia.resources
+C:\Users\JoseFdez\Desktop\PRACTICAS1\agenda Practica 2\agenda\obj\x86\Debug\agenda.frmsobre.resources
+C:\Users\JoseFdez\Desktop\PRACTICAS1\agenda Practica 2\agenda\obj\x86\Debug\agenda.Properties.Resources.resources
+C:\Users\JoseFdez\Desktop\PRACTICAS1\agenda Practica 2\agenda\obj\x86\Debug\agenda.csproj.GenerateResource.Cache

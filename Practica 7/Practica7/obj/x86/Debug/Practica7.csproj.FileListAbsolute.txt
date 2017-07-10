@@ -1,0 +1,17 @@
+c:\users\emilio\documents\visual studio 2010\Projects\Practica7\Practica7\bin\Debug\Practica7.exe
+c:\users\emilio\documents\visual studio 2010\Projects\Practica7\Practica7\bin\Debug\Practica7.pdb
+c:\users\emilio\documents\visual studio 2010\Projects\Practica7\Practica7\obj\x86\Debug\boton_v2.cs.boton_v2.resources
+c:\users\emilio\documents\visual studio 2010\Projects\Practica7\Practica7\obj\x86\Debug\Practica7.Form1.resources
+c:\users\emilio\documents\visual studio 2010\Projects\Practica7\Practica7\obj\x86\Debug\Practica7.Properties.Resources.resources
+c:\users\emilio\documents\visual studio 2010\Projects\Practica7\Practica7\obj\x86\Debug\Practica7.csproj.GenerateResource.Cache
+c:\users\emilio\documents\visual studio 2010\Projects\Practica7\Practica7\obj\x86\Debug\Practica7.exe
+c:\users\emilio\documents\visual studio 2010\Projects\Practica7\Practica7\obj\x86\Debug\Practica7.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 7\Practica7\obj\x86\Debug\Practica7.exe
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 7\Practica7\obj\x86\Debug\Practica7.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 7\Practica7\bin\Debug\Practica7.exe
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 7\Practica7\bin\Debug\Practica7.pdb
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 7\Practica7\obj\x86\Debug\Practica7.csprojResolveAssemblyReference.cache
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 7\Practica7\obj\x86\Debug\boton_v2.cs.boton_v2.resources
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 7\Practica7\obj\x86\Debug\Practica7.Form1.resources
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 7\Practica7\obj\x86\Debug\Practica7.Properties.Resources.resources
+C:\Users\JoseFdez\Desktop\PRACTICAS1\Practica 7\Practica7\obj\x86\Debug\Practica7.csproj.GenerateResource.Cache
